@@ -9,7 +9,7 @@ This repository holds the Meta Names smart contracts and is organized into sever
 - `partisia-name-system`: implements the DNS for partisia
 - `rpc-msg-derive`: implements remote procedure call for msg
 - `utils`: various utilities
-
+ 
 All packages are rigorously tested using unit and integration tests via Cucumber.
 
 ## Deployments
